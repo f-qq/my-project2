@@ -1,0 +1,4 @@
+import { feeds } from './collector.js';
+const sourceIndex = new Map(feeds.map(feed => [feed.id, feed]));
+const CATEGORY_FEEDS = { '电影': ['bili-film', 'apple-cn', 'apple-us', 'tmdb-movies', 'archive'], '剧集': ['tvmaze', 'tmdb-tv'], '短剧': ['bili-film', 'bili-anime'], '动漫': ['anilist', 'jikan', 'bili-anime'], 'AI视频': ['bili-film', 'bili-anime'], '视频': ['youtube-netflix'], '纪录片': ['archive'], '成人': ['eporner-week','eporner-new','eporner-ai','huangguo-ai','anilist-adult','jikan-adult'], '真人视频': ['eporner-week','eporner-new'], '成人动画': ['anilist-adult','jikan-adult'], 'AI成人短剧': ['eporner-ai','huangguo-ai'] };
+export function feedsForScope(scope) { if (!scope || scope === '全部' || scope === 'all') return feeds; return (CATEGORY_FEEDS[scope] || (sourceIndex.has(scope) ? [scope] : [])).map(id => sourceIndex.get(id)).filter(Boolean); }

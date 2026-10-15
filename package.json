@@ -1,0 +1,15 @@
+{
+  "name": "streamverse-lite",
+  "version": "1.5.0",
+  "private": true,
+  "type": "module",
+  "description": "轻量影视趋势聚合站：真实榜单、来源状态、独立缓存、成人公开来源、v2rayN代理启动",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}

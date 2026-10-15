@@ -1,0 +1,135 @@
+[
+  {
+    "id": "open-bbb",
+    "title": "Big Buck Bunny · 大雄兔",
+    "description": "Blender 官方频道公开的经典开源动画短片，点击即可在 YouTube 播放完整版。",
+    "category": "动漫",
+    "region": "海外",
+    "source": "Blender 官方 YouTube",
+    "poster": "https://i.ytimg.com/vi/YE7VzlLtp-4/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YE7VzlLtp-4",
+    "action": "前往观看",
+    "year": "2008",
+    "tags": [
+      "短片",
+      "动画",
+      "开放作品"
+    ],
+    "featured": true,
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "open-sintel",
+    "title": "Sintel · 辛特尔",
+    "description": "Blender 开放电影项目，奇幻风格的动画短片。",
+    "category": "动漫",
+    "region": "海外",
+    "source": "Blender 官方 YouTube",
+    "poster": "https://i.ytimg.com/vi/eRsGyueVLvQ/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ",
+    "action": "前往观看",
+    "year": "2010",
+    "tags": [
+      "奇幻",
+      "动画",
+      "短片"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "open-tears",
+    "title": "Tears of Steel · 钢铁之泪",
+    "description": "Blender 官方真人与 CG 混合制作的科幻短片。",
+    "category": "电影",
+    "region": "海外",
+    "source": "Blender 官方 YouTube",
+    "poster": "https://i.ytimg.com/vi/R6MlUcmOul8/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=R6MlUcmOul8",
+    "action": "前往观看",
+    "year": "2012",
+    "tags": [
+      "科幻",
+      "短片",
+      "开放作品"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "bili-ai-short-2026",
+    "title": "2026 AI 短剧作品 · 加长版",
+    "description": "哔哩哔哩站内 AI 短剧投稿，具体版权及可用性以原站为准。",
+    "category": "AI视频",
+    "region": "国内",
+    "source": "哔哩哔哩",
+    "poster": "",
+    "url": "https://www.bilibili.com/video/BV1cHNt6hEGM/",
+    "action": "前往观看",
+    "year": "2026",
+    "tags": [
+      "AI短剧",
+      "AIGC",
+      "国内"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "open-elephants",
+    "title": "Elephants Dream · 大象之梦",
+    "description": "Blender 开放电影计划早期的先锋动画短片。",
+    "category": "动漫",
+    "region": "海外",
+    "source": "Blender 官方作品",
+    "poster": "https://i.ytimg.com/vi/TLkA0RELQ1g/hqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=TLkA0RELQ1g",
+    "action": "前往观看",
+    "year": "2006",
+    "tags": [
+      "实验动画",
+      "开放电影"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "bili-ai-original-dearest",
+    "title": "《我最亲爱的》· 原创 AI 短剧",
+    "description": "B 站原创系列 AI 短剧《My Dearest》，从第一集进入播放页面。",
+    "category": "短剧",
+    "region": "国内",
+    "source": "哔哩哔哩 / 海苔猫短剧",
+    "poster": "",
+    "url": "https://www.bilibili.com/video/BV1bNTM64EYJ/",
+    "action": "B站播放",
+    "year": "2026",
+    "tags": [
+      "原创短剧",
+      "AIGC",
+      "连载"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  },
+  {
+    "id": "bili-ai-original-leftalone",
+    "title": "《Left Alone》· AI 叙事短片",
+    "description": "B 站 AI 创作大赛作品，以 AI 视频工具实现电影化叙事。",
+    "category": "AI视频",
+    "region": "国内",
+    "source": "哔哩哔哩",
+    "poster": "",
+    "url": "https://www.bilibili.com/video/BV1VbPMzgEqV/",
+    "action": "B站播放",
+    "year": "2026",
+    "tags": [
+      "AI短片",
+      "科幻",
+      "原创"
+    ],
+    "dataKind": "示例",
+    "trend": -100
+  }
+]

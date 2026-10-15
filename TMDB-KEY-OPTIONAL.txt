@@ -1,0 +1,4 @@
+（可选）增强影视热榜：在本文件夹中新建 tmdb-key.txt，第一行写 TMDB API Key（v3），不要写引号或其它内容。
+官方申请：https://www.themoviedb.org/settings/api
+无需配置也能启动网站；未配置时只关闭 TMDB 数据源。
+请勿把含 API Key 的文件发布到公共 GitHub 仓库。
